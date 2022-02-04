@@ -9,7 +9,7 @@ I am certified on <a href="https://gurret-lionel.weebly.com/about-me.html" targe
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/lionel-gurret/">LinkedIn</a> 💼
-- My Web Site: <a href="https://gurret-lionel.weebly.com" target="_blank">https://gurret-lionel.weebly.com/</a>
+- <a href="https://gurret-lionel.weebly.com" target="_blank">My Web Site</a>
 
 ## ✨ Current situation
 
