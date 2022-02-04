@@ -1,11 +1,11 @@
 
 # Hi, I'm Lionel 👋 ⛰️⛷️⛰️🚴⛰️🏃 💻
 
-<img src="" alt="Lionel Gurret - DevOps Consultant">
+<img src="https://github.com/gurretl/gurretl/blob/main/banner-github.png" alt="Lionel Gurret - DevOps Consultant">
 
 I'm a **DevOps Consultant** and I'm passionate about **devops technologies** and everything related to the cloud.  
 I currently live in **Thun** and actively participate in local and international community activities and events.  
-I share my interest for technology through my blog <a href="https://gurret-lionel.weebly.com/" target="_blank">https://gurret-lionel.weebly.com/</a>.
+I share my interest for technology through my <a href="https://gurret-lionel.weebly.com/" target="_blank">blog</a>.
 
 I am certified on <a href="https://gurret-lionel.weebly.com/about-me.html" target="_blank">**several technologies**</a> !
 
