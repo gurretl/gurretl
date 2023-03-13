@@ -14,7 +14,7 @@ I am certified on <a href="https://gurret-lionel.weebly.com/about-me.html" targe
 ## ✨ Current situation
 
 - 🔭 I’m currently working as DevOps Consultant at Sokube in Geneva
-- 🌱 As a former Ops Enginner, I’m currently learning Python and trying to improve my Dev knowledge.
+- 🌱 As a former Ops Enginner, I’m currently learning FinOps and trying to improve my Cloud knowledge.
 - ⛰️⛷️🏃⛰️ Sport fact: I am an Ultra Trail Runner (UTMB Finisher) and a Ski Alpinist (Pierramenta)
 
 ## 💌 Contact Me
