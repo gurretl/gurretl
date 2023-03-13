@@ -5,7 +5,7 @@ I'm a **DevOps Consultant** and I'm passionate about **devops technologies** and
 I currently live in **Thun** and actively participate in local and international community activities and events.  
 I share my interest for technology through my <a href="https://thedevopsrunner.com/" target="_blank">blog</a>.
 
-I am certified on <a href="https://thedevopsrunner.com/aboutl" target="_blank">**several technologies**</a> !
+I am certified on <a href="https://thedevopsrunner.com/about" target="_blank">**several technologies**</a> !
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/lionel-gurret/">LinkedIn</a> 💼
