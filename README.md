@@ -24,5 +24,5 @@ I am certified on <a href="https://thedevopsrunner.com/aboutl" target="_blank">*
 ---
 <p align="center"> © 2022 Lionel Gurret </p>
 <p align="center">
-https://gurret-lionel.weebly.com/
+https://thedevopsrunner.com
 </p>
