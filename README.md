@@ -22,7 +22,7 @@ I am certified on <a href="https://thedevopsrunner.com/aboutl" target="_blank">*
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lionel-gurret)
 
 ---
-<p align="center"> © 2022 Lionel Gurret </p>
+<p align="center"> © 2023 Lionel Gurret </p>
 <p align="center">
 https://thedevopsrunner.com
 </p>
