@@ -1,7 +1,7 @@
 
 # Hi, I'm Lionel 👋 ⛰️⛷️⛰️🚴⛰️🏃 💻
 
-I'm a **DevOps Consultant** and I'm passionate about **devops technologies** and everything related to the cloud.  
+I'm a **DevOps Consultant**, Microsoft **MVP** and **MCT** and I'm passionate about **devops technologies** and everything related to the cloud.  
 I currently live in **Thun** and actively participate in local and international community activities and events.  
 I share my interest for technology through my <a href="https://thedevopsrunner.com/" target="_blank">blog</a>.
 
