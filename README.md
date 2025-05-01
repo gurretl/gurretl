@@ -1,7 +1,7 @@
 
 # Hi, I'm Lionel 👋 ⛰️⛷️⛰️🚴⛰️🏃 💻
 
-I'm a **DevOps Consultant**, Microsoft **MVP** and **MCT** and I'm passionate about **devops technologies** and everything related to the cloud.  
+I'm a **DevOps Consultant**, Microsoft **MVP** and **MCT** and I'm passionate about **Devops technologies** and everything related to the cloud.  
 I currently live in **Thun** and actively participate in local and international community activities and events.  
 I share my interest for technology through my <a href="https://thedevopsrunner.com/" target="_blank">blog</a>.
 
@@ -13,7 +13,7 @@ I am certified on <a href="https://thedevopsrunner.com/about" target="_blank">**
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as DevOps Consultant at Sokube in Geneva
+- 🔭 I’m currently working as DevOps Engineer at Die Mobiliar in Bern
 - 🌱 The best way to learn is to teach, check my YouTube channel!
 - ⛰️⛷️🏃⛰️ Sport fact: I am an Ultra Trail Runner (UTMB Finisher) and a Ski Alpinist (Pierramenta)
 
